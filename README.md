@@ -24,3 +24,5 @@ Podfeedgen - это скрипт для генерации подкаст фид
 4. Multiprocessing
 5. config ?!?
 6. Переписать ReadMe.md
+
+#Fuck them all
